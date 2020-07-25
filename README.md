@@ -1,40 +1,41 @@
-# curso-platzi-react-avanzado ⚛️
+## Curso-Platzi-React-Avanzado ⚛️
 
-	Aplicación copia sencilla de Intagram de mascotas.
+### Aplicación copia sencilla de Intagram de mascotas.
 	
-	Usamos:
+    
+### Usamos:
 	
-		- Empaquetador y transpilador:
+  * Empaquetador y transpilador:
 
-			Webpack
-			Babel
+       Webpack
+       Babel
 			
-		- Estilado con CSS en JS con:
+  * Estilado con CSS en JS con:
 
-			styled-components
+       styled-components
 			
-		- Linter:
+  * Linter:
 
-			Standard JS
+       Standard JS
 			
-		- Obtención de datos:
+  * Obtención de datos:
 
-			GraphQL
-			React Apollo
+       GraphQL
+       React Apollo
 
-		- Enrutado SPA:
+  * Enrutado SPA:
 
-			Reach Router
+       Reach Router
 			
-		- Buenas prácticas:
+  * Buenas prácticas:
 
-			Lighthouse
-			Cypress
+       Lighthouse
+       Cypress
 			
-		- SEO, PWA y Deploy con:
+  * SEO, PWA y Deploy con:
 
-			React Helmet
-			Workbox
-			Progressive Web App
-			Deply con Now (Vercel)
+       React Helmet
+       Workbox
+       Progressive Web App
+       Deply con Now (Vercel)
 
