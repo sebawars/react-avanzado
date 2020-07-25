@@ -7,8 +7,7 @@
 	
   * Empaquetador y transpilador:
 
-       Webpack
-       Babel
+       Webpack, Babel
 			
   * Estilado con CSS en JS con:
 
@@ -20,8 +19,7 @@
 			
   * Obtención de datos:
 
-       GraphQL
-       React Apollo
+       GraphQL, React Apollo
 
   * Enrutado SPA:
 
@@ -29,13 +27,18 @@
 			
   * Buenas prácticas:
 
-       Lighthouse
-       Cypress
+       Lighthouse, Cypress
 			
   * SEO, PWA y Deploy con:
 
-       React Helmet
-       Workbox
-       Progressive Web App
-       Deply con Now (Vercel)
+       React Helmet, Workbox, Progressive Web App, Deploy con Now (Vercel)
+      
+  * En código:
+  
+       Hooks useState, useEffect, useContext, useRef.  
+       Custom Hooks useLocalStorage, useInputValue, useNearScreen.  
+       High order Components, render props.  
+       React.memo, React.lazy.  
+       Proptypes  
+       
 
