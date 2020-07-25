@@ -2,6 +2,7 @@
 
 ### Aplicación copia sencilla de Intagram de mascotas.
 	
+### Desplegada en https://petgram-ten-pi.vercel.app/login
     
 ### Usamos:
 	
@@ -19,7 +20,8 @@
 			
   * Obtención de datos:
 
-       GraphQL, React Apollo
+       GraphQL, React Apollo  
+       API en express con json-server
 
   * Enrutado SPA:
 
