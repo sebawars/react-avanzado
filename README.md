@@ -2,7 +2,7 @@
 
 ### Aplicación copia sencilla de Intagram de mascotas.
 	
-### Desplegada en https://petgram-ten-pi.vercel.app/login
+### Desplegada serverless en https://petgram-ten-pi.vercel.app/login
     
 ### Usamos:
 	
@@ -33,7 +33,7 @@
 			
   * SEO, PWA y Deploy con:
 
-       React Helmet, Workbox, Progressive Web App, Deploy con Now (Vercel)
+       React Helmet, Workbox, Progressive Web App, Deploy con Now serverless (Vercel)
       
   * En código:
   
