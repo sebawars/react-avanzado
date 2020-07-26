@@ -1,10 +1,10 @@
 ## Curso-Platzi-React-Avanzado ⚛️
 
-### Aplicación copia sencilla de Intagram de mascotas.
+#### Aplicación copia sencilla de Intagram de mascotas.  
 	
-### Desplegada serverless en https://petgram-ten-pi.vercel.app/login
+#### Desplegada serverless en https://petgram-ten-pi.vercel.app/login  
     
-### Usamos:
+#### Usamos:
 	
   * Empaquetador y transpilador:
 
